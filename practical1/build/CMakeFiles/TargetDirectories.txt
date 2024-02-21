@@ -1,0 +1,3 @@
+/Users/mertdaloglu/Desktop/DIS/Lent/Adv_ResComp/practicals/practical1/build/CMakeFiles/multiply.dir
+/Users/mertdaloglu/Desktop/DIS/Lent/Adv_ResComp/practicals/practical1/build/CMakeFiles/edit_cache.dir
+/Users/mertdaloglu/Desktop/DIS/Lent/Adv_ResComp/practicals/practical1/build/CMakeFiles/rebuild_cache.dir
